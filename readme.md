@@ -1,5 +1,6 @@
 # README
 
+Projet Du groupe 7: Younes OUARTASSI / Anas IKLI / Yacine KERRAD
 ## Préparer son environnement
 
 Installer le paquet virtualenv
